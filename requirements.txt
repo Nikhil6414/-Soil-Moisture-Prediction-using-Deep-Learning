@@ -1,0 +1,6 @@
+pandas
+numpy
+matplotlib
+tensorflow
+scikit-learn
+deep-learning, tensorflow, keras, machine-learning, beginner-project, python
